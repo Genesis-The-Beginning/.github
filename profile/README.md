@@ -18,3 +18,4 @@
 | 5 | 2017087 | Σωτήρης Μήτσος | [p17mits1](https://github.com/P17mits1) |
 | 6 | 2019021 | Σταυρούλα Ανατολάκη | [StavroulaAnatolaki](https://github.com/StavroulaAnatolaki) |
 | 7 | 2020019 | Ανανίας Χορόζογλου | [Anomacti](https://github.com/Anomacti) |
+| 8 | 2017079 | Ελένη Νουβάκη | [p17nouv](https://github.com/p17nouv) |
