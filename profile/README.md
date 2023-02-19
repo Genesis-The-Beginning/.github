@@ -19,12 +19,13 @@
 
 | # | ΑΜ | Ονοματεπώνυμο | GitHub profile |
 | :--: | :--: | :--: | :--: |
-| 1 | 2020064 | Γιώργος Ελευθεριάδης | [GeorgiosEleftheriadis](https://github.com/GeorgiosEleftheriadis) |
-| 2 | 2019119 | Χρήστος Μπαζδάνης | [ChristosMpazdanhs](https://github.com/ChristosMpazdanhs) |
-| 3 | 2018019 | Δημήτρης Βαρελάς | [dimitrisvarelas](https://github.com/dimitrisvarelas) |
-| 4 | 2018020 | Νέστορας Κοσμίδης| [NestorasKosmidis](https://github.com/NestorasKosmidis) |
-| 5 | 2017087 | Σωτήρης Μήτσος | [p17mits1](https://github.com/P17mits1) |
-| 6 | 2019021 | Σταυρούλα Ανατολάκη | [StavroulaAnatolaki](https://github.com/StavroulaAnatolaki) |
-| 7 | 2020019 | Ανανίας Χορόζογλου | [Anomacti](https://github.com/Anomacti) |
-| 8 | 2017079 | Ελένη Νουβάκη | [p17nouv](https://github.com/p17nouv) |
-| 9 | 2017014 | Κατερίνα Βαμβακά | [katevamv](https://github.com/katevamv) |
+| 1  | 2020064 | Γιώργος Ελευθεριάδης | [GeorgiosEleftheriadis](https://github.com/GeorgiosEleftheriadis) |
+| 2  | 2019119 | Χρήστος Μπαζδάνης | [ChristosMpazdanhs](https://github.com/ChristosMpazdanhs) |
+| 3  | 2018019 | Δημήτρης Βαρελάς | [dimitrisvarelas](https://github.com/dimitrisvarelas) |
+| 4  | 2018020 | Νέστορας Κοσμίδης| [NestorasKosmidis](https://github.com/NestorasKosmidis) |
+| 5  | 2017087 | Σωτήρης Μήτσος | [p17mits1](https://github.com/P17mits1) |
+| 6  | 2019021 | Σταυρούλα Ανατολάκη | [StavroulaAnatolaki](https://github.com/StavroulaAnatolaki) |
+| 7  | 2020019 | Ανανίας Χορόζογλου | [Anomacti](https://github.com/Anomacti) |
+| 8  | 2017079 | Ελένη Νουβάκη | [p17nouv](https://github.com/p17nouv) |
+| 9  | 2017014 | Κατερίνα Βαμβακά | [katevamv](https://github.com/katevamv) |
+| 10 | 2020146 | Χρήστος Γρηγοράκος | [x-dot](https://github.com/x-dot) |
