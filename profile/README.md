@@ -30,3 +30,6 @@
 | 9  | 2017014 | Κατερίνα Βαμβακά | [katevamv](https://github.com/katevamv) |
 | 10 | 2020146 | Χρήστος Γρηγοράκος | [x-dot](https://github.com/x-dot) |
 | 11 | 2020172 | Γεώργιος Μαστρογιάννης | [mastro27](https://github.com/mastro27) |
+| 12 | 2020123 | Γεράσιμος Τσιλιμπάρης | [gerasimosp2020123](https://github.com/gerasimosp2020123) |
+| 13 | 2017160 | Παναγιώτης Σιώλος | [p17siol](https://github.com/p17siol) |
+| 14 | 2019217 | Ιωάννης Πανόπουλος | [P2019217](https://github.com/P2019217) |
